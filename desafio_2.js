@@ -10,8 +10,6 @@ function calcularSaldo(vitorias, derrotas) {
 let saldo = calcularSaldo(vitorias, derrotas);
 
 
-
-
 if(saldo < 10){
     console.log("O Herói tem saldo de "+ saldo + "está no nível de Ferro")
 }
